@@ -1,0 +1,245 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\NITRO\Downloads\bai5\bai5
+vALU
+Z1 IWP;9<BO=j_Pc6ANHP?Fo=0
+Z2 V=AaEm:eFCMd`5fZ8InlFl1
+Z3 dF:\Nam 3 UIT\Verilog\Lab\Big_Lab\LAB5
+Z4 w1747574220
+Z5 8F:\Nam 3 UIT\Verilog\Lab\Big_Lab\bai5\ALU.v
+Z6 FF:\Nam 3 UIT\Verilog\Lab\Big_Lab\bai5\ALU.v
+L0 1
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 n@a@l@u
+Z10 !s100 B37<lXggR><HCd8NMK;[k0
+Z11 !s108 1747639477.946000
+Z12 !s107 F:\Nam 3 UIT\Verilog\Lab\Big_Lab\bai5\ALU.v|
+Z13 !s90 -reportprogress|300|-work|work|F:\Nam 3 UIT\Verilog\Lab\Big_Lab\bai5\ALU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vALUControl
+Z14 !s100 5Zm6z`:jEkNMX>HG?Ub:W0
+Z15 I[P;G0m58`IYA<dKmZ9`CZ2
+Z16 VJO8og]WPkHZ@ZSa_JPnb^3
+R3
+R4
+Z17 8F:/Nam 3 UIT/Verilog/Lab/Big_Lab/bai5/ALUControl.v
+Z18 FF:/Nam 3 UIT/Verilog/Lab/Big_Lab/bai5/ALUControl.v
+L0 1
+R7
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|F:/Nam 3 UIT/Verilog/Lab/Big_Lab/bai5/ALUControl.v|
+R8
+Z20 n@a@l@u@control
+Z21 !s108 1747639477.994000
+Z22 !s107 F:/Nam 3 UIT/Verilog/Lab/Big_Lab/bai5/ALUControl.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vControlUnit
+Z23 IOjkJAWVN9cioHKo9Po8QY1
+Z24 VQ1;Uae^9H_87>OX;0F4N_1
+R3
+Z25 w1747617268
+Z26 8F:\Nam 3 UIT\Verilog\Lab\Big_Lab\bai5\ControlUnit.v
+Z27 FF:\Nam 3 UIT\Verilog\Lab\Big_Lab\bai5\ControlUnit.v
+L0 1
+R7
+r1
+31
+R8
+Z28 n@control@unit
+Z29 !s100 0LQ=a9E?0;fjd7oSWDh_n2
+Z30 !s108 1747639478.058000
+Z31 !s107 F:\Nam 3 UIT\Verilog\Lab\Big_Lab\bai5\ControlUnit.v|
+Z32 !s90 -reportprogress|300|-work|work|F:\Nam 3 UIT\Verilog\Lab\Big_Lab\bai5\ControlUnit.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vDataMemory
+Z33 !s100 ;MII?78en01FAWLg1DaNC2
+Z34 I_hlGIhGiE1JLzo4ID3Kdj3
+Z35 VJU_<e=T66lZYAW[;c:W@E1
+R3
+Z36 w1747574690
+Z37 8F:/Nam 3 UIT/Verilog/Lab/Big_Lab/bai5/DataMemory.v
+Z38 FF:/Nam 3 UIT/Verilog/Lab/Big_Lab/bai5/DataMemory.v
+L0 1
+R7
+r1
+31
+Z39 !s90 -reportprogress|300|-work|work|F:/Nam 3 UIT/Verilog/Lab/Big_Lab/bai5/DataMemory.v|
+R8
+Z40 n@data@memory
+Z41 !s108 1747639478.121000
+Z42 !s107 F:/Nam 3 UIT/Verilog/Lab/Big_Lab/bai5/DataMemory.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vIMem
+Z43 !s100 `MS;QO`gYIR5bP0zaC83c1
+Z44 Ii^@jFaC6=kobN8Hj3ZMX[1
+Z45 Vmm0Go]<;Wz3]82@^nXH282
+R3
+R4
+Z46 8F:/Nam 3 UIT/Verilog/Lab/Big_Lab/bai5/IMem.v
+Z47 FF:/Nam 3 UIT/Verilog/Lab/Big_Lab/bai5/IMem.v
+L0 1
+R7
+r1
+31
+Z48 !s90 -reportprogress|300|-work|work|F:/Nam 3 UIT/Verilog/Lab/Big_Lab/bai5/IMem.v|
+R8
+Z49 n@i@mem
+Z50 !s108 1747639478.169000
+Z51 !s107 F:/Nam 3 UIT/Verilog/Lab/Big_Lab/bai5/IMem.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMIPSCPU
+Z52 !s100 Z`OOUSVc`MHOdaY3?THn21
+Z53 Ib1`Se[ahbQPHQchc2@_5E0
+Z54 VgaikSGF;lze5oQX?L1:0Y0
+R3
+R4
+Z55 8F:/Nam 3 UIT/Verilog/Lab/Big_Lab/bai5/MIPSCPU.v
+Z56 FF:/Nam 3 UIT/Verilog/Lab/Big_Lab/bai5/MIPSCPU.v
+L0 1
+R7
+r1
+31
+Z57 !s90 -reportprogress|300|-work|work|F:/Nam 3 UIT/Verilog/Lab/Big_Lab/bai5/MIPSCPU.v|
+R8
+Z58 n@m@i@p@s@c@p@u
+Z59 !s108 1747639478.232000
+Z60 !s107 F:/Nam 3 UIT/Verilog/Lab/Big_Lab/bai5/MIPSCPU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMIPSCPU_tb
+Z61 IG_LR4menn2cQYkQTBO3681
+Z62 VYDdMbYDAGk<15`oQFE8MW3
+R3
+Z63 w1747615746
+Z64 8F:/Nam 3 UIT/Verilog/Lab/Big_Lab/bai5/MIPSCPU_tb.v
+Z65 FF:/Nam 3 UIT/Verilog/Lab/Big_Lab/bai5/MIPSCPU_tb.v
+L0 3
+R7
+r1
+31
+R8
+Z66 n@m@i@p@s@c@p@u_tb
+Z67 !s100 a1W1JaZUMA4h]jFCDkNEH0
+Z68 !s108 1747639478.279000
+Z69 !s107 F:/Nam 3 UIT/Verilog/Lab/Big_Lab/bai5/MIPSCPU_tb.v|
+Z70 !s90 -reportprogress|300|-work|work|F:/Nam 3 UIT/Verilog/Lab/Big_Lab/bai5/MIPSCPU_tb.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMux1
+Z71 !s100 EKK7?7R69gI_oGe70[73g1
+Z72 Im55b]gDzZ:zMQF[gDPPU_2
+Z73 VD]eQz`>z`WdEcFQlXSQzQ2
+R3
+R4
+Z74 8F:/Nam 3 UIT/Verilog/Lab/Big_Lab/bai5/Mux1.v
+Z75 FF:/Nam 3 UIT/Verilog/Lab/Big_Lab/bai5/Mux1.v
+L0 1
+R7
+r1
+31
+Z76 !s90 -reportprogress|300|-work|work|F:/Nam 3 UIT/Verilog/Lab/Big_Lab/bai5/Mux1.v|
+R8
+Z77 n@mux1
+Z78 !s108 1747639478.343000
+Z79 !s107 F:/Nam 3 UIT/Verilog/Lab/Big_Lab/bai5/Mux1.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMux2
+Z80 !s100 >9ZQ<d@YkV1JT8<5W5g]Y1
+Z81 I]cFG:M@1nkOA_PICLm37R1
+Z82 VLBhdCB2=^n=ZQ0]Ab^efl3
+R3
+R4
+Z83 8F:/Nam 3 UIT/Verilog/Lab/Big_Lab/bai5/Mux2.v
+Z84 FF:/Nam 3 UIT/Verilog/Lab/Big_Lab/bai5/Mux2.v
+L0 1
+R7
+r1
+31
+Z85 !s90 -reportprogress|300|-work|work|F:/Nam 3 UIT/Verilog/Lab/Big_Lab/bai5/Mux2.v|
+R8
+Z86 n@mux2
+Z87 !s108 1747639478.391000
+Z88 !s107 F:/Nam 3 UIT/Verilog/Lab/Big_Lab/bai5/Mux2.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMux3
+Z89 !s100 o;g]9_[XcEg2b:GjG3QJV2
+Z90 Imb;H:3bKPiW=RC8Y^i1_o2
+Z91 V;AmiMeF;5XG1TzR=?i2?P1
+R3
+R4
+Z92 8F:/Nam 3 UIT/Verilog/Lab/Big_Lab/bai5/Mux3.v
+Z93 FF:/Nam 3 UIT/Verilog/Lab/Big_Lab/bai5/Mux3.v
+L0 1
+R7
+r1
+31
+Z94 !s90 -reportprogress|300|-work|work|F:/Nam 3 UIT/Verilog/Lab/Big_Lab/bai5/Mux3.v|
+R8
+Z95 n@mux3
+Z96 !s108 1747639478.454000
+Z97 !s107 F:/Nam 3 UIT/Verilog/Lab/Big_Lab/bai5/Mux3.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vRegisterFile
+Z98 IJJ9b2^_dK?JKJ:hFJ5G[J3
+Z99 V`J_mIk?PG^fiR;_MOI4lf1
+R3
+Z100 w1747620800
+Z101 8F:\Nam 3 UIT\Verilog\Lab\Big_Lab\bai5\RegisterFile.v
+Z102 FF:\Nam 3 UIT\Verilog\Lab\Big_Lab\bai5\RegisterFile.v
+L0 1
+R7
+r1
+31
+R8
+Z103 n@register@file
+!i10b 1
+Z104 !s100 Tko7Ejm0KF9ckIVj@UFgC1
+!s85 0
+Z105 !s108 1747639478.502000
+Z106 !s107 F:\Nam 3 UIT\Verilog\Lab\Big_Lab\bai5\RegisterFile.v|
+Z107 !s90 -reportprogress|300|-work|work|F:\Nam 3 UIT\Verilog\Lab\Big_Lab\bai5\RegisterFile.v|
+!s101 -O0
+vSignExtended
+!i10b 1
+Z108 !s100 @QzO76?mzY<M@AA9>n:Hn1
+Z109 IRNnLzi]IYo05G>`c^4i<<3
+Z110 VW;0l?Mn[mOi`7^J`D6a9i2
+R3
+R4
+Z111 8F:/Nam 3 UIT/Verilog/Lab/Big_Lab/bai5/SignExtended.v
+Z112 FF:/Nam 3 UIT/Verilog/Lab/Big_Lab/bai5/SignExtended.v
+L0 1
+R7
+r1
+!s85 0
+31
+!s108 1747639478.566000
+!s107 F:/Nam 3 UIT/Verilog/Lab/Big_Lab/bai5/SignExtended.v|
+Z113 !s90 -reportprogress|300|-work|work|F:/Nam 3 UIT/Verilog/Lab/Big_Lab/bai5/SignExtended.v|
+!s101 -O0
+R8
+Z114 n@sign@extended
